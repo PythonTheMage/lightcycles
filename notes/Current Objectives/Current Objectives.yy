@@ -1,7 +1,7 @@
 {
   "$GMNotes":"",
-  "%Name":"Basic Idea",
-  "name":"Basic Idea",
+  "%Name":"Current Objectives",
+  "name":"Current Objectives",
   "parent":{
     "name":"Light Bikes",
     "path":"Light Bikes.yyp",

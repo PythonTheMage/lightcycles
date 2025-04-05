@@ -34,8 +34,11 @@
   },
   "name":"Light Bikes",
   "resources":[
-    {"id":{"name":"Basic Idea","path":"notes/Basic Idea/Basic Idea.yy",},},
+    {"id":{"name":"Current Objectives","path":"notes/Current Objectives/Current Objectives.yy",},},
+    {"id":{"name":"Player1","path":"objects/Player1/Player1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Pallette","path":"sprites/Pallette/Pallette.yy",},},
+    {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
